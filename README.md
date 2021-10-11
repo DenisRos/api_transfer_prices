@@ -1,2 +1,2 @@
-# api_transfer_prices
+# transfer_prices
 Transfer prices for opencart
